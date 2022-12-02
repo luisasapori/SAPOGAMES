@@ -1,0 +1,9 @@
+nav a:hover{
+    color: #199ec7;
+    text-decoration: underline;
+}
+
+.card:hover{
+   border-color: rgb(150, 10, 117);
+}
+
